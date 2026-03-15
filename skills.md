@@ -7,3 +7,9 @@ ansible
 artifacts
 git actions
 CI/CD pipelines
+pods
+Docker images
+Docker containers
+Dockers files
+k8s clusters
+nodes
